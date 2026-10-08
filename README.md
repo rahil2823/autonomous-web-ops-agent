@@ -9,7 +9,7 @@ extraction → snapshot comparison → reasoning loop → completion (summary, a
 > **Deployed application:** `https://mmt-web-ops-agent-g2bj.onrender.com/` (add after deploying; see *Deploy*)
 > **Interactive demo (no backend needed):** open `frontend/index.html` directly; it detects that no
 > API is reachable and runs the same pipeline in the browser against bundled sample sources.
-> **Demonstration video:** `<Google Drive link, "Anyone with the link can view">`
+> **Demonstration video:** `<[Google Drive link](https://drive.google.com/file/d/1wTVzG3WtcNB0qbtqcrBbQji7e_KZvcMB/view?usp=sharing), "Anyone with the link can view">.`
 
 ![Live browser view](docs/screenshots/01_live_browser_booking.png)
 
