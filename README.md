@@ -1,6 +1,6 @@
 # MakeMyTrip Autonomous Web Operations Agent
 
-A governed browser-agent platform that turns recurring web monitoring (competitor offers, hotel
+A governed browser-agent platform that turns recurring web monitoring (competitor offers, hotell
 pricing, campaign pages, partner updates, travel demand signals) into auditable workflows:
 
 **task intake → agent planning → (plan approval) → controlled browser execution → structured
